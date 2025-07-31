@@ -20,15 +20,11 @@ I'm a backend developer passionate about building secure, scalable, and efficien
 - Handle background tasks with Celery + Redis  
 - Deploy full-stack applications with Docker and cloud platforms
 
-### 📫 Get in Touch
-- Email: imfaizannadeem@gmail.com  
-- LinkedIn: [linkedin.com/in/faizannadeem](https://linkedin.com/in/faizannadeem)  
-- Portfolio: [faizannadeem.dev](https://faizannadeem.dev)
+### 🔗 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230076C0.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mfaizan422/) [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:imfaizannadeem@gmail.com)  
 
 ---
 
 Feel free to clone this and adapt it further with pinned repositories, badges, or GitHub stats. Let me know if you'd like me to generate a version with visuals like GitHub trophies or contribution graphs.
 
-### 🔗 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230076C0.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mfaizan422/) [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:imfaizannadeem@gmail.com)  
 
