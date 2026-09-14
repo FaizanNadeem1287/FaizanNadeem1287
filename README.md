@@ -8,6 +8,16 @@
 
 </div>
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FaizanNadeem1287/FaizanNadeem1287/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FaizanNadeem1287/FaizanNadeem1287/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/FaizanNadeem1287/FaizanNadeem1287/output/github-snake.svg" />
+</picture>
+
+</div>
+
 ---
 
 ## About Me
@@ -54,12 +64,10 @@ Full write-ups and case studies: [faaaizan.space](https://www.faaaizan.space)
 - Meta Front-End Developer Professional Certificate
 - Google UX Design Professional Certificate
 
-## 📊 GitHub Stats
+## ⏱️ Coding Activity
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=FaizanNadeem1287&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F5A623&icon_color=F5A623&text_color=C9D1D9" alt="GitHub Stats" height="165" />
-<img src="https://streak-stats.demolab.com/?user=FaizanNadeem1287&hide_border=true&background=0D1117&ring=F5A623&fire=F5A623&currStreakLabel=F5A623" alt="GitHub Streak" height="165" />
-</div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 📫 Let's Build Something
 
