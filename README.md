@@ -4,7 +4,6 @@
 
 ### Backend Developer @ Nextpak Agile Solutions · AI/GenAI Engineer
 
-<!-- Replace YOUR-GITHUB-USERNAME below with your actual GitHub username -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=F5A623&center=true&vCenter=true&width=600&lines=Building+agentic+RAG+systems;Shipping+multi-agent+pipelines+to+production;Turning+GenAI+demos+into+reliable+products" alt="Typing SVG" />
 
 </div>
@@ -57,10 +56,9 @@ Full write-ups and case studies: [faaaizan.space](https://www.faaaizan.space)
 
 ## 📊 GitHub Stats
 
-<!-- Replace YOUR-GITHUB-USERNAME below with your actual GitHub username -->
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F5A623&icon_color=F5A623&text_color=C9D1D9" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&hide_border=true&background=0D1117&ring=F5A623&fire=F5A623&currStreakLabel=F5A623" alt="GitHub Streak" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=FaizanNadeem1287&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F5A623&icon_color=F5A623&text_color=C9D1D9" alt="GitHub Stats" height="165" />
+<img src="https://streak-stats.demolab.com/?user=FaizanNadeem1287&hide_border=true&background=0D1117&ring=F5A623&fire=F5A623&currStreakLabel=F5A623" alt="GitHub Streak" height="165" />
 </div>
 
 ## 📫 Let's Build Something
